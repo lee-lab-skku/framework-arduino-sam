@@ -11,6 +11,6 @@
   "homepage": "https://www.arduino.cc/reference/en",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arduino/ArduinoCore-sam"
+    "url": "https://github.com/lee-lab-skku/framework-arduino-sam"
   }
 }
